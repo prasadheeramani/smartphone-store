@@ -1,0 +1,72 @@
+{
+    "products": [
+        {
+            "_id": "phone_1",
+            "image": "/images/phone_1/1.jpg",
+            "title": "Vivo V19 (Mystic Silver, 8GB RAM, 128GB Storage) ",
+            "description": "The vivo V19 is equipped with 32MP Dual Front Camera, Super Night Selfie, Super Wide Selfie,  Aura Screen Light, 48MP AI Rear Camera, 33W vivo Flash Charge 2.0 with 4500mAh Big Battery, Qualcomm Snapdragon 712AIE, 16.36cm (6.44-inch) LIV Super AMOLED FHD+ Dual iView Display,8GB RAM with up to 256GB Internal Memory Storage expandable up to 512GB and much more.",
+            "availableColor": [
+                "Mystic Silver",
+                "Piano Black"
+            ],
+            "price": 24990
+        },
+        {
+            "_id": "phone_2",
+            "image": "/images/phone_2/1.jpg",
+            "title": "Samsung Galaxy M31 (6GB RAM, 128GB Storage)",
+            "description": "With the Samsung Galaxy M31, Samsung re-introduces the powerful 6000 mAh battery along with all round features comprising of a 64 MP rear camera in Quad camera set up and an immersive sAmoled screen.",
+            "availableColor": [
+                "Blue",
+                "Black"
+            ],
+            "price": 17499
+        },
+        {
+            "_id": "phone_3",
+            "image": "/images/phone_3/1.jpg",
+            "title": "OnePlus 8 Pro (8GB RAM+128GB Storage)",
+            "description": "The all new OnePlus 8 Pro Powered by Qualcomm Snapdragon 865. Supports 5G Technology and comes equipped with 120hz Fliud display, a Rear Quad camera Setup with a capability to shoot 4K video @ 30/60 FPS.",
+            "availableColor": [
+                "Onyx Black",
+                "Glacial Green"
+            ],
+            "price": 50499
+        },
+        {
+            "_id": "phone_4",
+            "image": "/images/phone_4/1.jpg",
+            "title": "Apple iPhone 11 Pro (64 GB)",
+            "description": "The phone comes with a 5.80-inch touchscreen display with a resolution of 1125x2436 pixels at a pixel density of 458 pixels per inch (ppi). iPhone 11 Pro is powered by a hexa-core Apple A13 Bionic processor. It comes with 4GB of RAM. The iPhone 11 Pro runs iOS 13 and is powered by a 3046mAh non-removable battery.",
+            "availableColor": [
+                "Gray",
+                "Red",
+                "Yellow"
+            ],
+            "price": 106600
+        },
+        {
+            "_id": "phone_5",
+            "image": "/images/phone_5/1.jpg",
+            "title": "Huawei Mate 20 Pro ( Huawei Mate 20 Pro)",
+            "description": "The Huawei Mate 20 Pro owns an aesthetic signature with an iconic square combining Leica triple camera and one flash. The new ultra wide angle Leica triple camera powered by AI reveals life drama, texture, colour and beauty in every photograph. With the Kirin 980 processor and the advanced and flexible CPU and GPU multi-core architecture, task and operation speed of the device have been greatly increased. The 4200mAH battery with supercharge for a always online pleasure.",
+            "availableColor": [
+                "Twilight",
+                "Breathing Crystal"
+            ],
+            "price": 69990
+        },
+        {
+            "_id": "phone_6",
+            "image": "/images/phone_6/1.jpg",
+            "title": "Redmi Note 9 Pro Max (6GB RAM, 128GB Storage)",
+            "description": "Colour:Interstellar Black | Size name:128 GB The 16.9cm(6.67 inch) large display with rounded corner design and dot notch display. Qualcomm Snapdragon 720G octa-core processor with 8nm technology; coupled with MIUI 11 system level optimisations enables low power consumption for a longer battery life. 64MP Quad camera with high resolution camera. Capture great photos in different lighting conditions. Gorgeous portraits with automatically enhanced facial features. Support Ultra-wide and super macro mode. 32MP front camera. 5020 large mAh large battery with 33W fast charger in-box. Note:Incase of any issue with the product, kindly contact brand between Service hours: 09:00-21:00.",
+            "availableColor": [
+                "Interstellar Black",
+                "Glacier White",
+                "Neptune Blue"
+            ],
+            "price": 18499
+        }
+    ]
+}
